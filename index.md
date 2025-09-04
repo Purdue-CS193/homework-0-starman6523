@@ -25,7 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Aaron Ming's First CS193 Homework
 
+- I like the avalibility of resources
+- I like the flexible schedule
+- I like computer science in general
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
